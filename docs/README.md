@@ -26,3 +26,5 @@ Communication is treated as a critical project function. The team uses regular s
 ## How to Use These Docs
 
 Use these documents to orient new team members, support project planning, and maintain consistent delivery practices across teams. Keep the artifacts updated in the project repository and align each project’s work with the lifecycle, communication rhythm, and quality standards described here.
+
+Edit for the new commit.
